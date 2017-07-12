@@ -47,12 +47,35 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
 
 } else if (e.message.content === "Good morning") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+    
+    } else if (e.message.content === "witajcie") {
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+
+} else if (e.message.content === "Witajcie") {
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+    
+     } else if (e.message.content === "witajcie") {
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+
+} else if (e.message.content === "Witajcie") {
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+    
+    
+    } else if (e.message.content === "Hey") {
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+
+} else if (e.message.content === "hey") {
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+    
 
 } else if (e.message.content === "cheers") {
         e.message.channel.sendMessage("<:TVMuUrt:333263734938140672>");
 
   } else if (e.message.content === "Cheers") {
         e.message.channel.sendMessage("<:TVMuUrt:333263734938140672>");  
+      
+      
+      
 
     } else if (e.message.content === "Thant?") {
         e.message.channel.sendMessage("I bet he is in sierra caves. Thant is real caveman.");
