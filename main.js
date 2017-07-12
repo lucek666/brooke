@@ -13,59 +13,59 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
 
 
     if (e.message.content === "hello") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
     } else if (e.message.content === "hi") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
 } else if (e.message.content === "yo") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "hola") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "czesc") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Hi") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Hello") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Yo") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Hola") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Czesc") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "good morning") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Good morning") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
     } else if (e.message.content === "witajcie") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Witajcie") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
      } else if (e.message.content === "witajcie") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "Witajcie") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
     
     } else if (e.message.content === "Hey") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
 } else if (e.message.content === "hey") {
-        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
+        e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
 
 } else if (e.message.content === "cheers") {
