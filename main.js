@@ -1,6 +1,9 @@
 var Discordie = require("discordie");
 var client = new Discordie();
 
+// Listen on port 8080
+server.listen(8080);
+
 // var game = {name: "FOnline 2"};
 // var streamingGame = {type: 1, name: "something", url: ""};
 
