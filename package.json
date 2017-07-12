@@ -6,6 +6,6 @@
     "start" : "node main.js"
   },
   "engines" : {
-    "node" : "~4.0"
+    "node" : ""
   }
 }
