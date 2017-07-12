@@ -12,7 +12,7 @@ client.Dispatcher.on("GATEWAY_READY", e => {
 client.Dispatcher.on("MESSAGE_CREATE", e => {
 
 
-    if (e.message.content === "hello" || "hy") {
+    if (e.message.content === "hello") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome in Broken Hills!");
     
     } else if (e.message.content === "hi") {
