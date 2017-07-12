@@ -8,6 +8,7 @@ var client = new Discordie();
 
 client.connect({
     token: "MzMyNTMwODUyNDM5MzkyMjY4.DEE_Mg.q2Cqt-Ufx78WQjDktFPn46FUImA"
+    autoreconnect: true,
 });
 
 client.Dispatcher.on("GATEWAY_READY", e => {
