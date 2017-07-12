@@ -1,10 +1,10 @@
 var Discordie = require("discordie");
 var client = new Discordie();
 
-var game = {name: "FOnline 2"};
+// var game = {name: "FOnline 2"};
 // var streamingGame = {type: 1, name: "something", url: ""};
 
-client.User.setGame(game);
+// client.User.setGame(game);
 
 client.connect({
     token: "MzMyNTMwODUyNDM5MzkyMjY4.DEE_Mg.q2Cqt-Ufx78WQjDktFPn46FUImA"
