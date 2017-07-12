@@ -82,10 +82,10 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
       
       
 
-    } else if (e.message.content === "Thant?") {
+ //   } else if (e.message.content === "Thant?") {
         e.message.channel.sendMessage("I bet he is in sierra caves. Thant is real caveman.");
 
-} else if (e.message.content === "Vick?") {
+// } else if (e.message.content === "Vick?") {
         e.message.channel.sendMessage("I saw him last night in bar. I can't describe how drunk he was.");
 
  
