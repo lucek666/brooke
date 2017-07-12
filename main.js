@@ -53,16 +53,16 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
 } else if (e.message.content === "Good morning") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
-    } else if (e.message.content === "witajcie") {
+    } else if (e.message.content === "Hi all") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
-} else if (e.message.content === "Witajcie") {
+} else if (e.message.content === "hi all") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
-     } else if (e.message.content === "witajcie") {
+     } else if (e.message.content === "Hi guys") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
 
-} else if (e.message.content === "Witajcie") {
+} else if (e.message.content === "hi guys") {
         e.message.channel.sendMessage("Nice to see you " + e.message.author.nickMention + " ! Welcome to Broken Hills!");
     
     
