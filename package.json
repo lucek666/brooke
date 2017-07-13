@@ -2,6 +2,9 @@
   "name" : "marcus",
   "version" : "0.1.0",
   "main" : "main.js",
+   "description": "discord bot.",
+  "license": "mit",
+  
   "scripts" : {
     "prestart": "npm install discordie",
     "start" : "node main.js"
