@@ -7,8 +7,7 @@
   
   "scripts" : {
     "prestart": "npm install discordie",
-    "start" : "node main.js",
-   "start" :  "node server.js"
+    "start" : "node main.js"
   },
   
   "repository": {
