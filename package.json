@@ -6,6 +6,12 @@
     "prestart": "npm install discordie",
     "start" : "node main.js"
   },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucek666/brooke.git"
+},
+  
   "engines" : {
     "node" : ">=4.0.0"
   }
