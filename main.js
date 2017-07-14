@@ -157,7 +157,17 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
   } else if (e.message.content === "Ha ha") {
         e.message.channel.sendMessage("<:7BQx50y:333263658983358479>");
 
+} else if (e.message.content === "hehe") {
+        e.message.channel.sendMessage("<:7BQx50y:333263658983358479>");
 
+  } else if (e.message.content === "haha") {
+        e.message.channel.sendMessage("<:7BQx50y:333263658983358479>");
+
+} else if (e.message.content === "he he") {
+        e.message.channel.sendMessage("<:7BQx50y:333263658983358479>");
+
+  } else if (e.message.content === "ha ha") {
+        e.message.channel.sendMessage("<:7BQx50y:333263658983358479>");
 
 
 
