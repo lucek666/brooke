@@ -9,7 +9,7 @@ http.createServer(function(request, response){
 
 
 var Discordie = require("discordie");
-var client = new Discordie();
+var client = new Discordie({autoReconnect: true});
 
 
 // var game = {name: "FOnline 2"};
