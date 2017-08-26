@@ -199,7 +199,7 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
  //    } else if (e.message.content === "Lucek") {
         e.message.channel.sendMessage("");
  } else if (e.message.content === "luc") {
-        e.message.channel.sendFile("http://i.imgur.com/rtfzJfq.jpg", "rtfzJfq.jpg");
+        e.message.channel.sendMessage("http://i.imgur.com/rtfzJfq.jpg", "rtfzJfq.jpg");
 
 
     }
