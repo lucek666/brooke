@@ -196,10 +196,10 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
 // } else if (e.message.content === "marcus?") {
         e.message.channel.sendMessage("Don't bother me, I'm too busy at idling in downtown.");
  
-    // } else if (e.message.content === "Lucek?") {
+ //    } else if (e.message.content === "Lucek") {
         e.message.channel.sendMessage("");
-// } else if (e.message.content === "lucek?") {
-        e.message.channel.sendMessage("Don't bother me, I'm too busy at idling in downtown.");
+ } else if (e.message.content === "luc") {
+        e.message.channel.sendMessage("http://i.imgur.com/rtfzJfq.jpg");
 
 
     }
