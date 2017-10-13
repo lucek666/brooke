@@ -181,26 +181,6 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
 
 
 
- //   } else if (e.message.content === "Thant?") {
-        e.message.channel.sendMessage("I bet he is in sierra caves. Thant is real caveman.");
-// } else if (e.message.content === "thant?") {
-        e.message.channel.sendMessage("I bet he is in sierra caves. Thant is real caveman.");
-
-// } else if (e.message.content === "Vick?") {
-        e.message.channel.sendMessage("I saw him last night in bar. I can't describe how drunk he was.");
-// } else if (e.message.content === "vick?") {
-        e.message.channel.sendMessage("I saw him last night in bar. I can't describe how drunk he was.");
-
-// } else if (e.message.content === "Marcus?") {
-        e.message.channel.sendMessage("Don't bother me, I'm too busy at idling in downtown.");
-// } else if (e.message.content === "marcus?") {
-        e.message.channel.sendMessage("Don't bother me, I'm too busy at idling in downtown.");
- 
- //    } else if (e.message.content === "Lucek") {
-        e.message.channel.sendMessage("");
-//  } else if (e.message.content === "luc") {
-        e.message.channel.sendMessage("http://i.imgur.com/rtfzJfq.jpg");
-
 
     }
 
