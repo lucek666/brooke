@@ -191,9 +191,9 @@ if (e.message.content === "xtips"){
         e.message.channel.sendMessage(eightball[Math.floor(Math.random()*20)]);
 }
 
-if (e.message.content === "!joke"){
+if (e.message.content === "joke"){
         var eightball = ["How many ghouls does it take to change a lightbulb? They don't need to, they just hudle around the glowing one!", "Why don't ghouls use bathrooms? Toilet paper makes them shed!", "A ghoul went to a doctor. Doctor, doctor, I have this horrible rash! - he said. The doctor replied: Son, that's called your face!", "Yo momma's so ugly deathclaws run away when they see her.", "You know your breath is bad when ghouls spawn in your mouth.", "You are so ugly, Angela Bishop became sterile when she looked at you.", "Your mama's so ugly, when she fell into a vat of FEV she came out looking exactly the same.", "How many NCR does it take to screw in a light bulb? 10. One to screw in the lightbulb and 9 to collect the illumination tax.", "Whats the difference between a Brotherhood knight and a mole? A mole comes out of the ground sometimes." ];
-        e.message.channel.sendMessage(eightball[Math.floor(Math.random()*10)]);
+        e.message.channel.sendMessage(eightball[Math.floor(Math.random()*20)]);
 }
 
 
