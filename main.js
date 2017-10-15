@@ -179,7 +179,8 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
         e.message.channel.sendMessage("<:7BQx50y:333263658983358479>");
 
     
-
+  } else if (e.message.content === "status") {
+        e.message.channel.sendMessage("http://riget.info/check/fo2");
 
 
 
